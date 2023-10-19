@@ -1,0 +1,22 @@
+dd_node.c ==========
+2-add_node.c:14: WARNING: please, no spaces at the start of a line
+2-add_node.c:17: WARNING: please, no spaces at the start of a line
+2-add_node.c:17: WARNING: suspect code indent for conditional statements (3, 7)
+2-add_node.c:18: WARNING: please, no spaces at the start of a line
+2-add_node.c:19: WARNING: please, no spaces at the start of a line
+2-add_node.c:20: WARNING: please, no spaces at the start of a line
+2-add_node.c:21: WARNING: please, no spaces at the start of a line
+2-add_node.c:33: WARNING: please, no spaces at the start of a line
+2-add_node.c:36: WARNING: please, no spaces at the start of a line
+2-add_node.c:37: WARNING: please, no spaces at the start of a line
+2-add_node.c:37: WARNING: suspect code indent for conditional statements (3, 7)
+2-add_node.c:38: WARNING: please, no spaces at the start of a line
+2-add_node.c:39: WARNING: please, no spaces at the start of a line
+2-add_node.c:42: WARNING: please, no spaces at the start of a line
+2-add_node.c:43: WARNING: please, no spaces at the start of a line
+2-add_node.c:44: WARNING: please, no spaces at the start of a line
+2-add_node.c:47: WARNING: please, no spaces at the start of a line
+total: 0 errors, 17 warnings, 48 lines checked
+_strlen
+add_node
+
